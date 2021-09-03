@@ -7,6 +7,9 @@ In this project a team of four,from bct AB 2077 coded for a selection sort algor
 Team members:
 
 Hemant Panchariya(Leader)
+
 Biraj Karanjit
+
 Kripesh NIhure
+
 Biraj Acharya
